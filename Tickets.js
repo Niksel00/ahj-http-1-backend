@@ -8,21 +8,21 @@ module.exports =  class Tickets {
         name: 'Поменять краску в принтере',
         description: 'Принтер Samsung ML-1210',
         status: '0',
-        created: '2111302072617',
+        created: '1622302072617',
       },
       {
         id: 2,
         name: 'Переустановить Windows',
         description: 'Обновить с Windows 7 на Windows 10',
         status: '0',
-        created: '2211302072917',
+        created: '622302072917',
       },
       {
         id: 3,
         name: 'Подключить проектор',
         description: 'Проектор Xiaomi Mi Smart Compact Projector',
         status: '1',
-        created: '2211302073617',
+        created: '1622302073617',
       },
     );
   }
